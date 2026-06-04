@@ -146,9 +146,7 @@ See `requirements.txt` for exact versions used.
 
 All processed outputs (CSV tables and figures) are archived at:
 
-> Muftuoglu, T. D. (2025). *Streamflow predictability horizon detection via SHAP feature shift — outputs and figures* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
-*(DOI will be updated upon journal acceptance)*
 
 ---
 
@@ -157,9 +155,9 @@ All processed outputs (CSV tables and figures) are archived at:
 If this code or data is used in published work, please cite the associated manuscript (reference to be updated upon acceptance):
 
 ```
-Muftuoglu, T. D. (2025). When does a streamflow forecast stop being a forecast?
+Muftuoglu, T. D. (2026). When does a streamflow forecast stop being a forecast?
 A SHAP-based framework for detecting predictability horizon collapse across
-contrasting Polish catchments. Journal of Hydrology. [Under review]
+contrasting Polish catchments
 ```
 
 ---
