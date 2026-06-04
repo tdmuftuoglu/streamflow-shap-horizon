@@ -1,0 +1,26 @@
+# Input data files — obtain from GRDC and NASA POWER directly
+data/
+*.txt
+*.csv
+
+# Generated outputs — available on Zenodo
+outputs/
+*.png
+*.zip
+*.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
