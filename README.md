@@ -5,7 +5,7 @@
 This repository contains the analysis code for the manuscript:
 
 > **"When Does a Streamflow Forecast Stop Being a Forecast? A SHAP-Based Framework for Detecting Predictability Horizon Collapse Across Contrasting Polish Catchments"**
-> T. D. Muftuoglu (2025)
+> T. D. Muftuoglu (2026)
 
 The study trains Optuna-optimised LightGBM and XGBoost models for five Polish gauging stations across five forecast lead times (h = 1, 2, 3, 5, 7 days) and uses SHAP (SHapley Additive exPlanations) at every lead time to track when a model transitions from genuine hydrological prediction to climatological anchoring. The lead time at which day-of-year seasonality harmonics first displace physical predictors at the top of the SHAP ranking is proposed as the **SHAP-based predictability horizon (SHAP-H)**.
 
