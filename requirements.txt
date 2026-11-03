@@ -1,0 +1,10 @@
+# Versions used for the published results (Google Colab, Python 3.13)
+lightgbm==4.6.0
+xgboost==3.4.1
+shap==0.54.1
+optuna==5.0.0
+scikit-learn==1.6.1
+pandas
+numpy
+scipy
+matplotlib
