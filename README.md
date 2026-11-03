@@ -1,6 +1,6 @@
 # How many days ahead can a river forecast really be trusted?
 
-This repository contains the code behind the manuscript *"When Does a Streamflow Forecast Stop Being a Forecast? A SHAP-Based Framework for Detecting Predictability Horizon Collapse Across Contrasting Polish Catchments"* by Tevfik Denizhan Müftüoğlu (under review).
+This repository contains the code behind the manuscript *"When Does a Streamflow Forecast Stop Being a Forecast? A SHAP-Based Framework for Detecting Predictability Horizon Collapse Across Contrasting Polish Catchments"* by Tevfik Denizhan Müftüoğlu.
 
 ## The problem in plain words
 
