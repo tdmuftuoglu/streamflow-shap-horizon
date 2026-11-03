@@ -1,25 +1,19 @@
-# Input data files — obtain from GRDC and NASA POWER directly
+# Input data (download from GRDC and NASA POWER; GRDC data may not be redistributed)
+*__grdc.txt
+*__nasa.csv
 data/
-*.txt
-*.csv
 
-# Generated outputs — available on Zenodo
-outputs/
-*.png
-*.zip
-*.docx
+# Local run outputs
+shapH_outputs/
 
 # Python
 __pycache__/
 *.py[cod]
-*.egg-info/
-.env
-venv/
 .venv/
+venv/
 
 # Jupyter / Colab
 .ipynb_checkpoints/
-*.ipynb
 
 # OS
 .DS_Store
